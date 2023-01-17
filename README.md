@@ -1,4 +1,4 @@
-# HeartDiseasePrediction
+# Heart Disease Prediction
 Heart Disease Prediction using LogisticRegression(Binary Classification)
 
 ## Logistic Regression
@@ -10,6 +10,7 @@ For this project, a traget value of 1 will indicate that the patient is sufferri
 ## Input tuple 
 
 The input tuple will have the following:
+
 There are 13 attributes
 
 1.age: age in years
@@ -61,4 +62,8 @@ There are 13 attributes
 and the label
 
 ## To be Predicted
-target: 0 = no disease, 1 = disease
+target:
+
+-- 0 = no disease
+
+-- 1 = disease
