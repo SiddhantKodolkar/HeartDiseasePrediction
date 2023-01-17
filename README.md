@@ -6,3 +6,12 @@ Logistic regression is one of the most popular Machine Learning algorithms, whic
 The curve from the logistic function indicates the likelihood of something such as whether the cells are cancerous or not, a mouse is obese or not based on its weight, etc.
 
 For this project, a traget value of 1 will indicate that the patient is sufferring from a heart disease and a 0 will indicate a healthy heart.
+
+## Input tuple 
+
+The input tuple will have the following:
+Age
+Sex
+Chest pain type(4 values)
+Resting blood pressure
+Serum cholestoral in mg/dl
